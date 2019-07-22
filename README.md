@@ -1,2 +1,5 @@
-# P112-20190722-Students-Summary
-
+dom movzusu 
+dom metodlar 
+htmlde deiwiylik
+js vasitesi ile css deiwmey yaratmaq
+htmlde elave elemey 
